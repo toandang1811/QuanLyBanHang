@@ -57,7 +57,7 @@ namespace WebBanHangOnline
             routes.MapRoute(
                name: "Products",
                url: "san-pham",
-               defaults: new { controller = "Products", action = "Index", alias = UrlParameter.Optional },
+               defaults: new { controller = "Products", action = "Index", alias = UrlParameter.Optional, id=UrlParameter.Optional },
                namespaces: new[] { "WebBanHangOnline.Controllers" }
            );
             routes.MapRoute(
@@ -78,6 +78,13 @@ namespace WebBanHangOnline
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional },
                 namespaces: new[] { "WebBanHangOnline.Controllers" }
             );
+
+            routes.MapRoute(
+             name: "Home",
+             url: "trang-chu",
+             defaults: new { controller = "Home", action = "Index", alias = UrlParameter.Optional },
+             namespaces: new[] { "WebBanHangOnline.Controllers" }
+         );
         }
     }
 }

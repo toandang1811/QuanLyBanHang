@@ -9,7 +9,7 @@ using System.Web.Mvc;
 namespace WebBanHangOnline.Models.EF
 {
     [Table("tb_News")]
-    public class News : CommonAbstract
+    public class News :CommonAbstract
     {
         [Key]
         [DatabaseGeneratedAttribute(DatabaseGeneratedOption.Identity)]

@@ -8,7 +8,7 @@ using System.Web;
 namespace WebBanHangOnline.Models.EF
 {
     [Table("tb_ProductCategory")]
-    public class ProductCategory : CommonAbstract
+    public class ProductCategory:CommonAbstract
     {
         public ProductCategory()
         {

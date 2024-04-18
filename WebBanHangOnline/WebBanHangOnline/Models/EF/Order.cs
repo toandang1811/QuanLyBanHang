@@ -8,7 +8,7 @@ using System.Web;
 namespace WebBanHangOnline.Models.EF
 {
     [Table("tb_Order")]
-    public class Order : CommonAbstract
+    public class Order:CommonAbstract
     {
         public Order()
         {

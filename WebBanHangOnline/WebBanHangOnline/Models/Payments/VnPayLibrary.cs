@@ -116,8 +116,6 @@ namespace WebBanHangOnline.Models.Payments
 
     public class Utils
     {
-
-
         public static String HmacSHA512(string key, String inputData)
         {
             var hash = new StringBuilder();

@@ -2,7 +2,7 @@
 as
 BEGIN
 	DECLARE @SoTruyCapGanNhat int
-	DECLARE @Count int
+	DECLARE @Count int 
 	SELECT @Count=COUNT(*) FROM ThongKes
 	IF @Count IS NULL SET @Count=0
 	IF @Count=0

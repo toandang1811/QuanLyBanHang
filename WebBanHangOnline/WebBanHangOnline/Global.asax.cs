@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -35,7 +35,7 @@ namespace WebBanHangOnline
             try
             {
                 var item = WebBanHangOnline.Models.Common.ThongKeTruyCap.ThongKe();
-                if (item != null)
+                if (item!=null)
                 {
                     Application["HomNay"] = long.Parse("0" + item.HomNay.ToString("#,###"));
                     Application["HomQua"] = long.Parse("0" + item.HomQua.ToString("#,###"));
@@ -45,7 +45,7 @@ namespace WebBanHangOnline
                     Application["ThangTruoc"] = long.Parse("0" + item.ThangTruoc.ToString("#,###"));
                     Application["TatCa"] = (int.Parse(item.TatCa.ToString())).ToString("#,###");
                 }
-
+               
             }
             catch { }
 

@@ -9,7 +9,7 @@ namespace WebBanHangOnline.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(WebBanHangOnline.Models.ApplicationDbContext context)
@@ -17,15 +17,16 @@ namespace WebBanHangOnline.Migrations
             //  This method will be called after migrating to the latest version.
 
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
-            //  to avoid creating duplicate seed data. E.g.
-            //
-            //    context.People.AddOrUpdate(
-            //      p => p.FullName,
-            //      new Person { FullName = "Andrew Peters" },
-            //      new Person { FullName = "Brice Lambson" },
-            //      new Person { FullName = "Rowan Miller" }
-            //    );
-            //
+            //  to avoid creating duplicate seed data.
+            context.SystemSettings.AddOrUpdate(x => x.SettingKey,
+                new Models.EF.SystemSetting() { SettingKey = "SettingTitle", SettingValue = "MeowShop", SettingDescription = "" },
+                new Models.EF.SystemSetting() { SettingKey = "SettingLogo", SettingValue = "", SettingDescription = "" },
+                new Models.EF.SystemSetting() { SettingKey = "SettingEmail", SettingValue = "dvt12209@gmail.com", SettingDescription = "" },
+                new Models.EF.SystemSetting() { SettingKey = "SettingHotline", SettingValue = "0374178407", SettingDescription = "" },
+                new Models.EF.SystemSetting() { SettingKey = "SettingTitleSeo", SettingValue = "", SettingDescription = "" },
+                new Models.EF.SystemSetting() { SettingKey = "SettingDesSeo", SettingValue = "", SettingDescription = "" },
+                new Models.EF.SystemSetting() { SettingKey = "SettingKeySeo", SettingValue = "", SettingDescription = "" }
+                );
         }
     }
 }

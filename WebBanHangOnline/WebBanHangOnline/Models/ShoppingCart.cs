@@ -13,7 +13,7 @@ namespace WebBanHangOnline.Models
             this.Items = new List<ShoppingCartItem>();
         }
 
-        public void AddToCart(ShoppingCartItem item, int Quantity)
+        public void AddToCart(ShoppingCartItem item,int Quantity)
         {
             var checkExits = Items.FirstOrDefault(x => x.ProductId == item.ProductId);
             if (checkExits != null)
@@ -29,14 +29,14 @@ namespace WebBanHangOnline.Models
 
         public void Remove(int id)
         {
-            var checkExits = Items.SingleOrDefault(x => x.ProductId == id);
+            var checkExits = Items.SingleOrDefault(x=>x.ProductId==id);
             if (checkExits != null)
             {
                 Items.Remove(checkExits);
             }
         }
 
-        public void UpdateQuantity(int id, int quantity)
+        public void UpdateQuantity(int id,int quantity)
         {
             var checkExits = Items.SingleOrDefault(x => x.ProductId == id);
             if (checkExits != null)
@@ -48,7 +48,7 @@ namespace WebBanHangOnline.Models
 
         public decimal GetTotalPrice()
         {
-            return Items.Sum(x => x.TotalPrice);
+            return Items.Sum(x=>x.TotalPrice);
         }
         public int GetTotalQuantity()
         {

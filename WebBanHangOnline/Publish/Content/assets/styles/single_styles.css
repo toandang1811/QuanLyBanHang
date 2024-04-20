@@ -1189,7 +1189,7 @@ section
 .tab_container
 {
 	width: 100%;
-	display: none;
+	/*display: none;*/
 }
 .tab_container.active
 {

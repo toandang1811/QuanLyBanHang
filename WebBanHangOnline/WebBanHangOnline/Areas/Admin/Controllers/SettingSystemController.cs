@@ -8,6 +8,7 @@ using WebBanHangOnline.Models.EF;
 
 namespace WebBanHangOnline.Areas.Admin.Controllers
 {
+    [CustomAuthorizeAttribute(Roles = "Admin")]
     public class SettingSystemController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
@@ -19,7 +20,8 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
 
         public ActionResult Partial_Setting()
         {
-            return PartialView();
+            var systemSettings = db.SystemSettings.Select(x => x);
+            return PartialView(systemSettings);
         }
         [HttpPost]
         public ActionResult AddSetting(SettingSystemViewModel req)

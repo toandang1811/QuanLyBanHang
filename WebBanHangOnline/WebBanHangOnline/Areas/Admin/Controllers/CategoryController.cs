@@ -8,7 +8,7 @@ using WebBanHangOnline.Models.EF;
 
 namespace WebBanHangOnline.Areas.Admin.Controllers
 {
-    [Authorize(Roles = "Admin")]
+    [CustomAuthorizeAttribute(Roles = "Admin")]
     public class CategoryController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
@@ -32,6 +32,8 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
             {
                 model.CreatedDate = DateTime.Now;
                 model.ModifiedDate = DateTime.Now;
+                model.CreatedBy = User.Identity.Name;
+                model.Modifiedby = User.Identity.Name;
                 model.Alias = WebBanHangOnline.Models.Common.Filter.FilterChar(model.Title);
                 db.Categories.Add(model);
                 db.SaveChanges();
@@ -53,6 +55,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
             {
                 db.Categories.Attach(model);
                 model.ModifiedDate = DateTime.Now;
+                model.Modifiedby = User.Identity.Name;
                 model.Alias = WebBanHangOnline.Models.Common.Filter.FilterChar(model.Title);
                 db.Entry(model).Property(x => x.Title).IsModified = true;
                 db.Entry(model).Property(x => x.Description).IsModified = true;

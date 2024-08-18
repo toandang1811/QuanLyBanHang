@@ -29,6 +29,7 @@
     <!-- Theme style -->
     <link rel="stylesheet" href="~/Content/clients/dist/css/adminlte.min.css">
     <link href="~/Content/PagedList.css" rel="stylesheet" />
+    @RenderSection("style", required: false)
 </head>
 <body class="hold-transition sidebar-mini">
     <div class="wrapper">
@@ -214,6 +215,9 @@
     <!-- AdminLTE App -->
     <script src="~/Content/clients/dist/js/adminlte.min.js"></script>
     <script src="~/Scripts/autoNumeric-1.9.45.js"></script>
+    <script src="~/Areas/Admin/Scripts/jsCommonAdmin.js"></script>
+    <script src="~/Content/assets/dist/js/demo.js"></script>
+    <script src="~/Content/assets/dist/js/pages/dashboard.js"></script>
     <!-- AdminLTE for demo purposes -->
     @*<script src="~/Content/clients/dist/js/demo.js"></script>*@
     <!-- Page specific script -->
@@ -272,10 +276,10 @@
             //)
 
             //Timepicker
-         
+
 
         });
-          
+
     </script>
     <script src="~/Content/ckeditor/ckeditor.js"></script>
     <script src="~/Content/ckfinder/ckfinder.js"></script>

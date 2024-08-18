@@ -13,12 +13,14 @@
                 tongtien += item.TotalPrice;
                 <tr>
                     <td>@item.ProductName</td>
+                    <td>@item.Quantity</td>
                     <td>@Common.FormatNumber(item.Price, 0)</td>
                 </tr>
             }
             <tr>
-                <td>Tổng tiền</td>
-                <td>@Common.FormatNumber(tongtien, 0)</td>
+                <td><strong>Tổng tiền</strong></td>
+                <td></td>
+                <td><strong>@Common.FormatNumber(tongtien, 0)</strong></td>
             </tr>
         </table>
     </div>

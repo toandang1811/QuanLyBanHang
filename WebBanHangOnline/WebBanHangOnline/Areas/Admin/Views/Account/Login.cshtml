@@ -3,8 +3,24 @@
     ViewBag.Title = "Login";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutLogin.cshtml";
 
-
 }
+
+<style>
+    .validation-summary-errors {
+        color: #f34a4a;
+        font-weight: bold;
+        font-size: 14px;
+    }
+
+        .validation-summary-errors ul {
+            list-style: none;
+            padding: 0;
+        }
+
+            .validation-summary-errors ul li {
+                margin-bottom: 5px;
+            }
+</style>
 
 <div class="card-body login-card-body">
     <p class="login-box-msg">Sign in to start your session</p>
@@ -12,6 +28,8 @@
     {
         @Html.AntiForgeryToken()
         @Html.ValidationSummary(true);
+
+        @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger"} )
         <div class="input-group mb-3">
             @Html.TextBoxFor(x => x.UserName, new { @class = "form-control", @placeholder = "Tài khoản" })
             <div class="input-group-append">
@@ -20,8 +38,9 @@
                 </div>
             </div>
         </div>
+        @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
         <div class="input-group mb-3">
-            @Html.TextBoxFor(x => x.Password, new { @class = "form-control", @placeholder = "Mật khẩu" })
+            @Html.PasswordFor(x => x.Password, new { @class = "form-control", @placeholder = "Mật khẩu" })
             @*<input type="password" class="form-control" placeholder="Password">*@
             <div class="input-group-append">
                 <div class="input-group-text">

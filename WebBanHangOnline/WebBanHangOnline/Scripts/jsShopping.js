@@ -8,7 +8,7 @@
         if (tQuantity != '') {
             quatity = parseInt(tQuantity);
         }
-        
+
         //alert(id + " " + quatity);
         $.ajax({
             url: '/shoppingcart/addtocart',
@@ -17,33 +17,51 @@
             success: function (rs) {
                 if (rs.Success) {
                     $('#checkout_items').html(rs.Count);
-                    alert(rs.msg);
+                    showMessageDialog(rs.msg);
                 }
             }
         });
     });
-    $('body').on('click', '.btnUpdate', function (e) {
+    $('body').on('change', '.value_quantity', function (e) {
         e.preventDefault();
         var id = $(this).data("id");
-        var quantity = $('#Quantity_' + id).val();
+        var quantity = $(this).val();
         Update(id, quantity);
 
     });
     $('body').on('click', '.btnDeleteAll', function (e) {
         e.preventDefault();
-        var conf = confirm('Bạn có chắc muốn xóa hết sản phẩm trong giỏ hàng?');
-        //debugger;
-        if (conf == true) {
+        //var conf = confirm('Bạn có chắc muốn xóa hết sản phẩm trong giỏ hàng?');
+        ////debugger;
+        //if (conf == true) {
+        //    DeleteAll();
+        //}
+        showConfirmDialog("Bạn có chắc muốn xóa hết sản phẩm trong giỏ hàng?", function () {
             DeleteAll();
-        }
+        }, null);
 
     });
 
     $('body').on('click', '.btnDelete', function (e) {
         e.preventDefault();
         var id = $(this).data('id');
-        var conf = confirm('Bạn có chắc muốn xóa sản phẩm này khỏi giỏ hàng?');
-        if (conf == true) {
+        //var conf = confirm('Bạn có chắc muốn xóa sản phẩm này khỏi giỏ hàng?');
+        //if (conf == true) {
+        //    $.ajax({
+        //        url: '/shoppingcart/Delete',
+        //        type: 'POST',
+        //        data: { id: id },
+        //        success: function (rs) {
+        //            if (rs.Success) {
+        //                $('#checkout_items').html(rs.Count);
+        //                $('#trow_' + id).remove();
+        //                LoadCart();
+        //            }
+        //        }
+        //    });
+        //}
+
+        showConfirmDialog("Bạn có chắc muốn xóa sản phẩm này khỏi giỏ hàng?", function () {
             $.ajax({
                 url: '/shoppingcart/Delete',
                 type: 'POST',
@@ -56,8 +74,8 @@
                     }
                 }
             });
-        }
-       
+        }, null);
+
     });
 });
 
@@ -83,7 +101,7 @@ function DeleteAll() {
         }
     });
 }
-function Update(id,quantity) {
+function Update(id, quantity) {
     $.ajax({
         url: '/shoppingcart/Update',
         type: 'POST',

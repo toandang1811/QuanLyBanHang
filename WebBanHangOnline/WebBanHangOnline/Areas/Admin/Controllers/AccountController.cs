@@ -3,20 +3,23 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
+using WebBanHangOnline.Business;
 using WebBanHangOnline.Models;
 
 namespace WebBanHangOnline.Areas.Admin.Controllers
 {
-    [Authorize(Roles = "Admin")]
+    [Authorize(Roles = "Admin,Employee")]
     public class AccountController : Controller
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
-        private ApplicationDbContext db = new ApplicationDbContext();
+        private ApplicationDbContext db = ApplicationDbContext.Create();
+        private UserRoleBL _bl = new UserRoleBL();
         public AccountController()
         {
         }
@@ -52,18 +55,24 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         }
 
         // GET: Admin/Account
+        [CustomAuthorizeAttribute(Roles = "Admin")]
         public ActionResult Index()
         {
-            var ítems = db.Users.ToList();
-            return View(ítems);
+            var items = db.Users.ToList();
+            return View(items);
         }
+
         //
         // GET: /Account/Login
         [AllowAnonymous]
         public ActionResult Login(string returnUrl)
         {
-            ViewBag.ReturnUrl = returnUrl;
-            return View();
+            if (!User.Identity.IsAuthenticated)
+            {
+                ViewBag.ReturnUrl = returnUrl;
+                return View();
+            }
+            return RedirectToLocal(returnUrl);
         }
 
         //
@@ -71,10 +80,23 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
+        [CustomAuthorizeAttribute(Roles = "Admin,Employee")]
         public async Task<ActionResult> Login(LoginViewModel model, string returnUrl)
         {
             if (!ModelState.IsValid)
             {
+                return View(model);
+            }
+
+            if (string.IsNullOrEmpty(model.UserName) || string.IsNullOrWhiteSpace(model.UserName))
+            {
+                ModelState.AddModelError("", Messages.MessagesInfo.MSG00005);
+                return View(model);
+            }
+
+            if (string.IsNullOrEmpty(model.Password) || string.IsNullOrWhiteSpace(model.Password))
+            {
+                ModelState.AddModelError("", Messages.MessagesInfo.MSG00006);
                 return View(model);
             }
 
@@ -84,6 +106,15 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
             switch (result)
             {
                 case SignInStatus.Success:
+
+                    var user = db.Users.FirstOrDefault(x => x.UserName.Equals(model.UserName));
+                    if (user != null && (user.Roles.FirstOrDefault(x => !x.RoleId.Equals("1") && !x.RoleId.Equals("3")) != null || user.Roles.Count == 0))
+                    {
+                        ModelState.AddModelError("", Messages.MessagesInfo.MSG00008);
+                        AuthenticationManager.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
+                        return View(model);
+                    }
+
                     return RedirectToLocal(returnUrl);
                 case SignInStatus.LockedOut:
                     return View("Lockout");
@@ -91,7 +122,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
                     return RedirectToAction("SendCode", new { ReturnUrl = returnUrl, RememberMe = model.RememberMe });
                 case SignInStatus.Failure:
                 default:
-                    ModelState.AddModelError("", "Invalid login attempt.");
+                    ModelState.AddModelError("", Messages.MessagesInfo.MSG00007);
                     return View(model);
             }
         }
@@ -100,6 +131,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         // POST: /Account/LogOff
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [CustomAuthorizeAttribute(Roles = "Admin,Employee")]
         public ActionResult LogOff()
         {
             AuthenticationManager.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
@@ -108,6 +140,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         //
         // GET: /Account/Register
         [AllowAnonymous]
+        [CustomAuthorizeAttribute(Roles = "Admin")]
         public ActionResult Create()
         {
             ViewBag.Role = new SelectList(db.Roles.ToList(), "Name", "Name");
@@ -119,6 +152,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
+        [CustomAuthorizeAttribute(Roles = "Admin")]
         public async Task<ActionResult> Create(CreateAccountViewModel model)
         {
             if (ModelState.IsValid)
@@ -148,6 +182,34 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
             }
             ViewBag.Role = new SelectList(db.Roles.ToList(), "Name", "Name");
             // If we got this far, something failed, redisplay form
+            return View(model);
+        }
+
+        // GET: /Account/Register
+        [AllowAnonymous]
+        [CustomAuthorizeAttribute(Roles = "Admin")]
+        public ActionResult View(string UserName)
+        {
+            var userRoles = _bl.GetAll(UserName);
+            ViewBag.Role = new SelectList(db.Roles.ToList(), "Name", "Name");
+            return View(userRoles);
+        }
+
+        [AllowAnonymous]
+        public ActionResult Profile()
+        {
+            var userProfile = _bl.GetAll(User.Identity.Name);
+            //ViewBag.State = UpdateStatus.
+            return View(userProfile);
+        }
+
+        [AllowAnonymous]
+        public ActionResult Profile(EditAccountViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+
+            }
             return View(model);
         }
 

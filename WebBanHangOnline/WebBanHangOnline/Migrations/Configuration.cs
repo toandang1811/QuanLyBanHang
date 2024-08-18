@@ -1,9 +1,10 @@
-namespace WebBanHangOnline.Migrations
+﻿namespace WebBanHangOnline.Migrations
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
+    using System.Web.Security;
 
     internal sealed class Configuration : DbMigrationsConfiguration<WebBanHangOnline.Models.ApplicationDbContext>
     {
@@ -27,6 +28,19 @@ namespace WebBanHangOnline.Migrations
                 new Models.EF.SystemSetting() { SettingKey = "SettingDesSeo", SettingValue = "", SettingDescription = "" },
                 new Models.EF.SystemSetting() { SettingKey = "SettingKeySeo", SettingValue = "", SettingDescription = "" }
                 );
+
+            context.Roles.AddOrUpdate(x => x.Id,
+                new Microsoft.AspNet.Identity.EntityFramework.IdentityRole() { Id = "1", Name = "Admin" },
+                new Microsoft.AspNet.Identity.EntityFramework.IdentityRole() { Id = "2", Name = "Customer" },
+                new Microsoft.AspNet.Identity.EntityFramework.IdentityRole() { Id = "3", Name = "Employee" }
+                );
+
+            context.Categories.AddOrUpdate(x => x.Title,
+               new Models.EF.Category() { Title = "Trang chủ", Alias = "trang-chu", Position = 1 },
+               new Models.EF.Category() { Title = "Tin tức", Alias = "tin-tuc", Position = 2 },
+               new Models.EF.Category() { Title = "Sản phẩm", Alias = "san-pham", Position = 3 },
+               new Models.EF.Category() { Title = "Liên hệ", Alias = "lien-he", Position = 4 }
+               );
         }
     }
 }

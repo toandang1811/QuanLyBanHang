@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Web;
 using WebBanHangOnline.Models;
 
@@ -18,7 +20,7 @@ namespace WebBanHangOnline.Common
         /// <returns></returns>
         public static string GetValue(string key)
         {
-            var item = db.SystemSettings.SingleOrDefault(x => x.SettingKey == key);
+            var item = db.SystemSettings.FirstOrDefault(x => x.SettingKey == key);
             if (item != null)
             {
                 return item.SettingValue;

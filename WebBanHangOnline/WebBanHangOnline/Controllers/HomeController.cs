@@ -44,7 +44,6 @@ namespace WebBanHangOnline.Controllers
             var item = new ThongKeModel();
 
             ViewBag.Visitors_online = HttpContext.Application["visitors_online"];
-            var hn = HttpContext.Application["HomNay"];
             item.HomNay = HttpContext.Application["HomNay"].ToString();
             item.HomQua = HttpContext.Application["HomQua"].ToString();
             item.TuanNay = HttpContext.Application["TuanNay"].ToString();

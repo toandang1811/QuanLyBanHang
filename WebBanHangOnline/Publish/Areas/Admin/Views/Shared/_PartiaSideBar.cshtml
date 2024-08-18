@@ -1,4 +1,5 @@
-﻿  <!-- Sidebar -->
+﻿
+<!-- Sidebar -->
 <div class="sidebar">
     <!-- Sidebar user (optional) -->
     <div class="user-panel mt-3 pb-3 mb-3 d-flex">
@@ -6,7 +7,7 @@
             <img src="~/Content/clients/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-            <a href="#" class="d-block">Alexander Pierce</a>
+            <a href="/admin/account/Profile" class="d-block">@User.Identity.Name</a>
         </div>
     </div>
 
@@ -123,6 +124,15 @@
                     </li>
 
                 </ul>
+            </li>
+            <li class="nav-item">
+                <a href="/admin/statistical" class="nav-link">
+                    <i class="nav-icon fas fa-th"></i>
+                    <p>
+                        Thống kê doanh thu
+                        @*<span class="right badge badge-danger">New</span>*@
+                    </p>
+                </a>
             </li>
             <li class="nav-item">
                 <a href="/admin/settingsystem" class="nav-link">

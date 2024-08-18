@@ -10,6 +10,8 @@ namespace WebBanHangOnline.Common
 {
     public class Common
     {
+        public static string MsgErr = "Đã xảy ra lỗi trong quá trình xử lý!";
+
         private static string password = ConfigurationManager.AppSettings["PasswordEmail"];
         private static string Email = ConfigurationManager.AppSettings["Email"];
 
@@ -66,7 +68,7 @@ namespace WebBanHangOnline.Common
         /// <returns></returns>
         public static string FormatNumber(object value, int SoSauDauPhay = 2)
         {
-            bool isNumber = IsNumeric(value);
+                bool isNumber = IsNumeric(value);
             decimal GT = 0;
             if (isNumber)
             {

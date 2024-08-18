@@ -5,6 +5,15 @@
     Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
 }
 
+@section style {
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+    <style>
+        #dialog {
+            overflow: hidden !important;
+        }
+    </style>
+}
+
 
 
 @section naviheader{
@@ -14,14 +23,13 @@
             <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
         </li>
         <li class="nav-item d-none d-sm-inline-block">
-            <a href="/admin" class="nav-link">Trang chủ</a>
+            <a href="/admin/home" class="nav-link">Trang chủ</a>
         </li>
         <li class="nav-item d-none d-sm-inline-block">
             <a href="/admin/category" class="nav-link">@ViewBag.Title</a>
         </li>
     </ul>
 }
-<link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
 <!-- Content Header (Page header) -->
 <section class="content-header">
     <div class="container-fluid">
@@ -99,29 +107,34 @@
                             {
                                 strImg = CheckImage.Image;
                             }
-                    <tr id="trow_@item.Id">
-                        <td><input type="checkbox" class="cbkItem" value="@item.Id" /></td>
-                        <td>@i</td>
-                        <td><img class="imgproduct" data-id="@item.Id" src="@strImg" width="50" /></td>
-                        <td>@item.Title</td>
-                        <td>@item.ProductCategory.Title</td>
-                        <td>@item.Quantity</td>
-                        <td>@WebBanHangOnline.Common.Common.FormatNumber(item.Price, 0)</td>
-                        <td>@item.CreatedDate.ToString("dd/MM/yyyy")</td>
-                        <td class="text-center">
-                            <a href='#' data-id="@item.Id" class="btnHome">@Html.Raw(strCheckHome)</a>
-                        </td>
-                        <td class="text-center">
-                            <a href='#' data-id="@item.Id" class="btnSale">@Html.Raw(strCheckSale)</a>
-                        </td>
-                        <td class="text-center">
-                            <a href='#' data-id="@item.Id" class="btnActive">@Html.Raw(strCheck)</a>
-                        </td>
-                        <td>
-                            <a href="/admin/Products/edit/@item.Id" class="btn btn-sm btn-primary">Sửa</a>
-                            <a href="#" data-id="@item.Id" class="btn btn-sm btn-danger btnDelete">Xóa</a>
-                        </td>
-                    </tr>
+                            <tr id="trow_@item.Id">
+                                <td><input type="checkbox" class="cbkItem" value="@item.Id" /></td>
+                                <td>@i</td>
+                                <td class="imgproduct" data-id="@item.Id"><img src="@strImg" width="50" /></td>
+                                <td>@item.Title</td>
+                                <td>@item.ProductCategory.Title</td>
+                                <td>@item.Quantity</td>
+                                <td>@WebBanHangOnline.Common.Common.FormatNumber(item.Price, 0)</td>
+                                <td>@item.CreatedDate.Value.ToString("dd/MM/yyyy")</td>
+                                <td class="text-center">
+                                    @*<a href='#' data-id="@item.Id" class="btnHome">@Html.Raw(strCheckHome)</a>*@
+                                    <input type="checkbox" data-id="@item.Id" class="btnHome" @(item.IsHome ? "checked" : "" ) />
+                                </td>
+                                <td class="text-center">
+                                    <a href='#' data-id="@item.Id" class="btnSale">@*@Html.Raw(strCheckSale)*@</a>
+                                    <input type="checkbox" data-id="@item.Id" class="btnSale" @(item.IsSale ? "checked" : "" ) />
+                                </td>
+                                <td class="text-center">
+                                    @*<a href='#' data-id="@item.Id" class="btnActive">@Html.Raw(strCheck)</a>*@
+                                    <input type="checkbox" data-id="@item.Id" class="btnActive" @(item.IsActive ? "checked" : "" ) />
+                                </td>
+                                <td class="text-right py-0 align-middle">
+                                    <div class="btn-group btn-group-sm" style="gap:3px;">
+                                        <a style="border-radius: .2rem;" href="/admin/Products/edit/@item.Id" class="btn btn-info"><i class="fas fa-eye"></i></a>
+                                        <a style="border-radius: .2rem;" href="javascript:void();" data-id="@item.Id" class="btn btn-danger" btnDelete><i class="fas fa-trash"></i></a>
+                                    </div>
+                                </td>
+                            </tr>
                             i++;
                         }
                     }
@@ -201,7 +214,7 @@
                     var conf = confirm('Bạn có muốn xóa các bản ghi này hay không?');
                     if (conf === true) {
                         $.ajax({
-                            url: '/admin/news/deleteAll',
+                            url: '/admin/products/deleteAll',
                             type: 'POST',
                             data: { ids: str },
                             success: function (rs) {
@@ -242,7 +255,7 @@
                     });
                 }
             });
-            $('body').on('click', '.btnHome', function (e) {
+            $('body').on('change', '.btnHome', function (e) {
                 e.preventDefault();
                 var btn = $(this);
                 var id = btn.data("id");
@@ -253,14 +266,11 @@
                     success: function (rs) {
                         if (rs.success) {
                             if (rs.IsHome) {
-                                btn.html("<i class='fa fa-check text-success'></i>");
-                                //$(this).find("i").removeClass("fas fa-times text-danger")
-                                //$(this).find("i").addClass("fa fa-check text-success");
+                                btn.attr("checked", true);
                             } else {
-                                btn.html("<i class='fas fa-times text-danger'></i>");
+                                btn.attr("checked", false);
                             }
                         }
-
                     }
                 });
             });
@@ -276,11 +286,9 @@
                     success: function (rs) {
                         if (rs.success) {
                             if (rs.IsSale) {
-                                btn.html("<i class='fa fa-check text-success'></i>");
-                                //$(this).find("i").removeClass("fas fa-times text-danger")
-                                //$(this).find("i").addClass("fa fa-check text-success");
+                                btn.attr("checked", true);
                             } else {
-                                btn.html("<i class='fas fa-times text-danger'></i>");
+                                btn.attr("checked", false);
                             }
                         }
 

@@ -48,11 +48,11 @@ namespace WebBanHangOnline.Models
 
     public class LoginViewModel
     {
-        [Required]
+        [Required(ErrorMessage = Messages.MessagesInfo.MSG00005)]
         [Display(Name = "UserName")]
         public string UserName { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = Messages.MessagesInfo.MSG00006)]
         [DataType(DataType.Password)]
         [Display(Name = "Password")]
         public string Password { get; set; }
@@ -63,11 +63,17 @@ namespace WebBanHangOnline.Models
     public class CreateAccountViewModel
     {
         [Required]
+        [Display(Name = "UserName")]
         public string UserName { get; set; }
+
         [Required]
+        [Display(Name = "FullName")]
         public string FullName { get; set; }
 
+        [Display(Name = "Phone")]
         public string Phone { get; set; }
+
+        [Display(Name = "Role")]
         public string Role { get; set; }
 
         [Required]
@@ -86,6 +92,37 @@ namespace WebBanHangOnline.Models
         [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
         public string ConfirmPassword { get; set; }
     }
+
+    public class EditAccountViewModel
+    {
+        public string Id { get; set; }
+
+        [Required]
+        [Editable(allowEdit: false)]
+        [Display(Name = "UserName")]
+        public string UserName { get; set; }
+
+        [Required]
+        [Display(Name = "FullName")]
+        public string FullName { get; set; }
+
+        [Display(Name = "Phone")]
+        public string Phone { get; set; }
+
+        [Display(Name = "Role")]
+        public string Role { get; set; }
+
+        [Display(Name = "RoleName")]
+        public string RoleName { get; set; }
+
+        [Required]
+        [EmailAddress]
+        [Display(Name = "Email")]
+        public string Email { get; set; }
+
+        public string Avatar { get; set; }
+    }
+
     public class RegisterViewModel
     {
         [Required]

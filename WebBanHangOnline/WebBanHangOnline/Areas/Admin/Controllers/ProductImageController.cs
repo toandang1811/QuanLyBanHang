@@ -8,6 +8,7 @@ using WebBanHangOnline.Models.EF;
 
 namespace WebBanHangOnline.Areas.Admin.Controllers
 {
+    [CustomAuthorizeAttribute(Roles = "Admin,Employee")]
     public class ProductImageController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
@@ -35,6 +36,14 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         {
             var item = db.ProductImages.Find(id);
             db.ProductImages.Remove(item);
+            db.SaveChanges();
+            return Json(new { success = true });
+        }
+
+        public ActionResult SetIsDefault(int id)
+        {
+            var item = db.ProductImages.Find(id);
+            //db.ProductImages.Remove(item);
             db.SaveChanges();
             return Json(new { success = true });
         }

@@ -11,7 +11,7 @@ using WebBanHangOnline.Models.ViewModels;
 
 namespace WebBanHangOnline.Areas.Admin.Controllers
 {
-    [Authorize(Roles = "Admin")]
+    [CustomAuthorizeAttribute(Roles = "Admin")]
     public class OrderController : Controller
     {
 
@@ -54,7 +54,11 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
             {
                 db.Orders.Attach(item);
                 item.TypePayment = trangthai;
+                item.Modifiedby = User.Identity.Name;
+                item.ModifiedDate = DateTime.Now;
                 db.Entry(item).Property(x => x.TypePayment).IsModified = true;
+                db.Entry(item).Property(x => x.Modifiedby).IsModified = true;
+                db.Entry(item).Property(x => x.ModifiedDate).IsModified = true;
                 db.SaveChanges();
                 return Json(new { message = "Success", Success = true });
             }

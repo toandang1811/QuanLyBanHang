@@ -18,6 +18,7 @@ namespace WebBanHangOnline.Models.Common
             using(var connect=new SqlConnection(strConnect))
             {
                 var item = connect.QueryFirstOrDefault<ThongKeViewModel>("sp_ThongKe", commandType: CommandType.StoredProcedure);
+                connect.Close();
                 return item;
             }
         }

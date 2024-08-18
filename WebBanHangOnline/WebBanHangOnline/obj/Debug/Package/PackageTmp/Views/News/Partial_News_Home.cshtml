@@ -1,7 +1,6 @@
 ﻿@model IEnumerable<WebBanHangOnline.Models.EF.News>
 @if (Model != null && Model.Any())
 {
-
     <div class="blogs">
         <div class="container">
             <div class="row">
@@ -20,16 +19,13 @@
                             <div class="blog_background" style="background-image:url(@item.Image)"></div>
                             <div class="blog_content d-flex flex-column align-items-center justify-content-center text-center">
                                 <h4 class="blog_title">@item.Title</h4>
-                                <span class="blog_meta">by @item.CreatedBy | @item.CreatedDate.ToString("MMM dd,yyyy")</span>
+                                <span class="blog_meta">by @item.CreatedBy | @item.CreatedDate.Value.ToString("MMM dd,yyyy")</span>
                                 <a class="blog_more" href="#">Read more</a>
                             </div>
                         </div>
                     </div>
                 }
-
-                
             </div>
         </div>
     </div>
-
 }

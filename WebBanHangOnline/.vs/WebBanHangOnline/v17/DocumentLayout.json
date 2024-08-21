@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Data\\QuanLyBanHang\\WebBanHangOnline\\",
+  "WorkspaceRootPath": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\data\\quanlybanhang\\webbanhangonline\\webbanhangonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\data\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Data\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Data\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Web.config",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Web.config",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Web.config",
-              "ToolTip": "C:\\Data\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Web.config",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Web.config",
               "RelativeToolTip": "WebBanHangOnline\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-08-13T03:32:07.498Z",
               "EditorCaption": ""
@@ -45,27 +45,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "RoleController.cs",
-              "DocumentMoniker": "C:\\Data\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
-              "ToolTip": "C:\\Data\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
               "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T03:21:11.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T03:21:11.668Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Data\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Data\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
               "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAtwA4AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T03:16:07.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T03:16:07.333Z"
             }
           ]
         },

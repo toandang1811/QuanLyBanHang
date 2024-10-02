@@ -4,29 +4,44 @@
 @if (Model != null && Model.Any())
 {
     <h3>GIỎ HÀNG <span style="float:right;position:relative"><small>@Model.Count()</small></span></h3>
-    var i = 0;
+    var i = 1;
     var tongtien = decimal.Zero;
-    <div style="border:1px solid #808080;">
-        <table class="table">
-            @foreach (var item in Model)
-            {
-                tongtien += item.TotalPrice;
+    <div>
+        <table class="table subTable" border="1">
+            <thead>
                 <tr>
-                    <td>@item.ProductName</td>
-                    <td>@item.Quantity</td>
-                    <td>@Common.FormatNumber(item.Price, 0)</td>
+                    <td>Thứ tự</td>
+                    <td>Tên sản phẩm</td>
+                    <td>Số lượng</td>
+                    <td>Giá</td>
+                    <td>Thành tiền</td>
                 </tr>
-            }
+            </thead>
+            <tbody>
+                @{
+                    foreach (var item in Model)
+                    {
+                        tongtien += item.TotalPrice;
+                        <tr>
+                            <td>@i</td>
+                            <td>@item.ProductName</td>
+                            <td>@Common.FormatNumber(item.Quantity, 2)</td>
+                            <td>@Common.FormatNumber(item.Price, 0)</td>
+                            <td>@Common.FormatNumber(item.TotalPrice, 0)</td>
+                        </tr>
+                        i = i + 1;
+                    }
+                }
             <tr>
-                <td><strong>Tổng tiền</strong></td>
-                <td></td>
-                <td><strong>@Common.FormatNumber(tongtien, 0)</strong></td>
+                <td colspan="3"><strong>Tổng tiền</strong></td>
+                <td colspan="2"><strong>@Common.FormatNumber(tongtien, 0)</strong></td>
             </tr>
+            </tbody>
         </table>
     </div>
 
 }
 else
 {
-
+    
 }

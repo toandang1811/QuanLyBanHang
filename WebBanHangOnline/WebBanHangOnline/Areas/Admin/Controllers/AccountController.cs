@@ -13,7 +13,7 @@ using WebBanHangOnline.Models;
 
 namespace WebBanHangOnline.Areas.Admin.Controllers
 {
-    [Authorize(Roles = "Admin,Employee")]
+    //[Authorize(Roles = "Admin,Employee")]
     public class AccountController : Controller
     {
         private ApplicationSignInManager _signInManager;
@@ -55,7 +55,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         }
 
         // GET: Admin/Account
-        [CustomAuthorizeAttribute(Roles = "Admin")]
+        //[CustomAuthorizeAttribute(Roles = "Admin")]
         public ActionResult Index()
         {
             var items = db.Users.ToList();
@@ -152,7 +152,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
-        [CustomAuthorizeAttribute(Roles = "Admin")]
+        //[CustomAuthorizeAttribute(Roles = "Admin")]
         public async Task<ActionResult> Create(CreateAccountViewModel model)
         {
             if (ModelState.IsValid)

@@ -4,24 +4,39 @@
     ViewBag.SeoDescription = Model.SeoDescription ?? Model.Title;
     ViewBag.SeoKeyWord = Model.SeoKeywords ?? Model.Title;
 }
-<link rel="stylesheet" type="text/css" href="~/Content/assets/styles/single_styles.css">
-<link rel="stylesheet" type="text/css" href="~/Content/assets/styles/single_responsive.css">
-<style>
-    #cke_pastebin {
-        margin: auto !important;
-        padding: 0 !important;
-        left: auto !important;
-        width: -webkit-fill-available !important;
-        overflow: inherit !important;
-        position: relative !important;
-        height: auto !important;
-    }
+@section style {
+    <link rel="stylesheet" type="text/css" href="~/Content/assets/styles/single_styles.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/assets/styles/single_responsive.css">
+    <style>
+        #cke_pastebin {
+            margin: auto !important;
+            padding: 0 !important;
+            left: auto !important;
+            width: -webkit-fill-available !important;
+            overflow: inherit !important;
+            position: relative !important;
+            height: auto !important;
+        }
 
-    .single_product_thumbnails img {
-        height: 100%;
-        object-fit: fill;
-    }
-</style>
+        .single_product_thumbnails img {
+            height: 100%;
+            object-fit: fill;
+        }
+
+        .thumbnails_col {
+            overflow: hidden;
+        }
+
+            .thumbnails_col:hover {
+                overflow: auto;
+            }
+
+        .active img {
+            opacity: 1 !important;
+        }
+    </style>
+}
+
 @if (Model != null)
 {
 
@@ -50,16 +65,17 @@
                         <div class="row">
                             <div class="col-lg-3 thumbnails_col order-lg-1 order-2">
                                 <div class="single_product_thumbnails">
-                                    <ul>
-                                        @foreach (var item in Model.ProductImage)
+                                    <ul style=" gap: 3px; display: grid; grid-auto-columns: max-content;">
+                                        @for (int j = 0; j < Model.ProductImage.Count(); j++)
                                         {
+                                            var item = Model.ProductImage.ToList()[j];
                                             if (item.IsDefault)
                                             {
-                                                <li class="active"><img src="@item.Image" alt="" data-image="@item.Image"></li>
+                                                <li style="border: 1px dashed #919191; margin: 0;" class="active"><img style="opacity: 0.5;" src="@item.Image" alt="@item.Product.Title" data-image="@item.Image"></li>
                                             }
                                             else
                                             {
-                                                <li><img src="@item.Image" alt="" data-image="@item.Image"></li>
+                                                <li style="border: 1px dashed #919191; margin: 0; "><img style="opacity: 0.5;" src="@item.Image" alt="@item.Product.Title" data-image="@item.Image"></li>
                                             }
                                         }
                                     </ul>
@@ -67,7 +83,7 @@
                             </div>
                             <div class="col-lg-9 image_col order-lg-2 order-1">
                                 <div class="single_product_image">
-                                    <div class="single_product_image_background" style="background-image:url(@Model.ProductImage.FirstOrDefault(x=>x.IsDefault).Image)"></div>
+                                    <div class="single_product_image_background" style="background-image:url(@Model.ProductImage.FirstOrDefault(x=>x.IsDefault)?.Image)"></div>
                                 </div>
                             </div>
                         </div>

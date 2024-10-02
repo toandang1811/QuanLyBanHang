@@ -55,7 +55,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         }
 
         // GET: Admin/Account
-        //[CustomAuthorizeAttribute(Roles = "Admin")]
+        [CustomAuthorizeAttribute(Roles = "Admin")]
         public ActionResult Index()
         {
             var items = db.Users.ToList();

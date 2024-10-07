@@ -10,10 +10,17 @@ namespace WebBanHangOnline.Common
 {
     public class Common
     {
-        public static string MsgErr = "Đã xảy ra lỗi trong quá trình xử lý!";
+        #region keys config
+        private const string KEY_EMAIL = "Email";
+        private const string KEY_PASSWORDEMAIL = "PasswordEmail";
+        #endregion
 
-        private static string password = ConfigurationManager.AppSettings["PasswordEmail"];
-        private static string Email = ConfigurationManager.AppSettings["Email"];
+        #region messages
+        public const string MsgErr = "Đã xảy ra lỗi trong quá trình xử lý!";
+        #endregion
+
+        private static string Email = ConfigurationManager.AppSettings[KEY_EMAIL];
+        private static string PassWordEmail = ConfigurationManager.AppSettings[KEY_PASSWORDEMAIL];
 
         /// <summary>
         /// Send Mail to customer
@@ -40,7 +47,7 @@ namespace WebBanHangOnline.Common
                     smtp.UseDefaultCredentials = false;
                     smtp.Credentials = new NetworkCredential() { 
                         UserName=Email,
-                        Password=password
+                        Password= PassWordEmail
                     };
                 }
                 MailAddress fromAddress = new MailAddress(Email, name);

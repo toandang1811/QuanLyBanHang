@@ -1,4 +1,7 @@
-﻿using System;
+﻿using CloudinaryDotNet;
+using CloudinaryDotNet.Actions;
+using dotenv.net;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -23,12 +26,29 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         [HttpPost]
         public ActionResult AddImage(int productId,string url)
         {
-            db.ProductImages.Add(new ProductImage { 
-                ProductId=productId,
-                Image=url,
-                IsDefault=false
-            });
-            db.SaveChanges();
+            DotEnv.Load(options: new DotEnvOptions(probeForEnv: true));
+            Cloudinary cloudinary = new Cloudinary(Environment.GetEnvironmentVariable("CLOUDINARY_URL"));
+            cloudinary.Api.Secure = true;
+            var uploadParams = new ImageUploadParams()
+            {
+                File = new FileDescription(url),
+                UseFilename = true,
+                UniqueFilename = true,
+                Overwrite = true,
+                Folder = "Product"
+            };
+            var uploadResult = cloudinary.Upload(uploadParams);
+            string uploadedImageUrl = uploadResult.SecureUrl.ToString();
+            if (!string.IsNullOrEmpty(uploadedImageUrl)) 
+            {
+                db.ProductImages.Add(new ProductImage
+                {
+                    ProductId = productId,
+                    Image = uploadedImageUrl,
+                    IsDefault = false
+                });
+                db.SaveChanges();
+            }
             return Json(new { Success=true});
         }
         [HttpPost]
@@ -39,6 +59,13 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
             db.SaveChanges();
             return Json(new { success = true });
         }
+
+        //[HttpPost]
+        //public ActionResult Update(int[] ids)
+        //{
+        //    var items = db.ProductImages
+        //    db.ProductImages.RemoveRange
+        //}
 
         public ActionResult SetIsDefault(int id)
         {

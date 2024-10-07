@@ -70,8 +70,8 @@
 </section>
 <!-- /.content -->
 @section scripts{
-    <script src="~/Content/clients/plugins/chart.js/Chart.min.js"></script>
-    <script src="~/Content/assets/plugins/moment/moment.min.js"></script>
+    <script src="~/Areas/Admin/Content/clients/plugins/chart.js/Chart.min.js"></script>
+    <script src="~/Areas/Admin/Content/assets/plugins/moment/moment.min.js"></script>
     <script>
         $(function () {
             /* ChartJS
@@ -156,8 +156,8 @@
                 strHtml += "<tr>";
                 strHtml += "<td>"+(i+1)+"</td>";
                 strHtml += "<td>" + strDate+"</td>";
-                strHtml += "<td>"+item.DoanhThu+"</td>";
-                strHtml += "<td>"+item.LoiNhuan+"</td>";
+                strHtml += "<td>" +NumberFormat(item.DoanhThu, "decimal", "vi-VN", "VND", 0)+"</td>";
+                strHtml += "<td>" + NumberFormat(item.LoiNhuan, "decimal", "vi-VN", "VND", 0) +"</td>";
                 strHtml += "</tr>";
             });
             $('#load_data').html(strHtml);

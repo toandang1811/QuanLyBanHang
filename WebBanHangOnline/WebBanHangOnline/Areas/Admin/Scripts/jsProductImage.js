@@ -1,4 +1,5 @@
-﻿$(document).ready(function () {    
+﻿
+$(document).ready(function () {    
     createToolbar(
         [
             {
@@ -39,7 +40,7 @@ actionScreen = new function () {
         var reader = new FileReader();
         reader.onload = function (e) {
             var src = e.target.result;
-            var element = `<div class="project">
+            var element = `<div class="project" data-id="image-0">
                                     <button class="close"><i class="fas fa-times"></i></button>
                                     <img class="smallImage" src="${src}">
                                     <div class="overlay">
@@ -48,7 +49,7 @@ actionScreen = new function () {
                                                 Close X
                                             </button>
                                             <div class="hdImgs">
-                                                <img class="squareImg" id="image-${0}" src="${src}">
+                                                <img class="squareImg" data-id="image-0" src="${src}">
                                             </div>
                                         </div>
                                     </div>

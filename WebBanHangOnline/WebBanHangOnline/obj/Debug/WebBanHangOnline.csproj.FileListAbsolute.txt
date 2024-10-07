@@ -1,3 +1,6 @@
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\Build\WebBanHangOnline.dll.config
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\Build\WebBanHangOnline.dll
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\Build\WebBanHangOnline.pdb
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.dll.config
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.dll
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.pdb
@@ -52,6 +55,7 @@ C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\VBCSComp
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe.config
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\Antlr3.Runtime.dll
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\CKFinder.dll
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\CloudinaryDotNet.dll
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\Dapper.dll
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.dll
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.SqlServer.dll
@@ -82,9 +86,11 @@ C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebP
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Razor.dll
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\WebGrease.dll
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\CKFinder.pdb
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\CloudinaryDotNet.xml
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\Dapper.xml
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.xml
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.SqlServer.xml
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\Newtonsoft.Json.xml
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\PagedList.xml
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.xml
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Helpers.xml
@@ -94,7 +100,6 @@ C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Razo
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.xml
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Deployment.xml
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Razor.xml
-C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\Newtonsoft.Json.xml
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\Antlr3.Runtime.pdb
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.xml
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.xml
@@ -114,6 +119,12 @@ C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHan
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHa.7E290493.Up2Date
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.dll
 C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.pdb
-C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\Build\WebBanHangOnline.dll.config
-C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\Build\WebBanHangOnline.dll
-C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\Build\WebBanHangOnline.pdb
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\dotenv.net.dll
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Buffers.dll
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Memory.dll
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Numerics.Vectors.dll
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Buffers.xml
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Memory.xml
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Numerics.Vectors.xml
+C:\TOAN\QLBH\QuanLyBanHang\WebBanHangOnline\WebBanHangOnline\bin\System.Runtime.CompilerServices.Unsafe.xml

@@ -3,12 +3,260 @@
   "WorkspaceRootPath": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\css\\cssproductimage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\css\\cssproductimage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\scripts\\jsproductimage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\scripts\\jsproductimage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\scripts\\jscommonadmin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\scripts\\jscommonadmin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\productimage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\productimage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\css\\csscommon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\css\\csscommon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\scripts\\jsnews.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\scripts\\jsnews.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\common\\settinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\common\\settinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\common\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\common\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\customauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\customauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\scripts\\jsproduct.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\scripts\\jsproduct.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\order\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\order\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\account\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\account\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\news\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\news\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\order\\partial_sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\order\\partial_sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\posts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\posts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\productcategory\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\productcategory\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\productcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\productcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\productcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\productcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\settingsystem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\settingsystem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\areas\\admin\\views\\settingsystem\\partial_setting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\settingsystem\\partial_setting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\shared\\_layoutempty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\shared\\_layoutempty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\shared\\_partiasidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\shared\\_partiasidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\shared\\_unauthorization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\shared\\_unauthorization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\statistical\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\statistical\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\content\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\content\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\models\\common\\thongketruycap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\models\\common\\thongketruycap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\controllers\\statisticalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -16,10 +264,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WebBanHangOnline||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\Publish\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,22 +286,6 @@
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -74,96 +302,16 @@
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\shared\\_unauthorization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\shared\\_unauthorization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\customauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\customauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\controllers\\advcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\advcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\shared\\_partiasidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\shared\\_partiasidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\shared\\_layoutempty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\shared\\_layoutempty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\settingsystem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\settingsystem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\content\\ckeditor\\adapters\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\content\\ckeditor\\adapters\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\content\\ckeditor\\ckeditor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\content\\ckeditor\\ckeditor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\content\\ckeditor\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\content\\ckeditor\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\content\\ckeditor\\styles.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\content\\ckeditor\\styles.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\productimage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\productimage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\scripts\\jsprofile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -172,22 +320,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\scripts\\jspost.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\scripts\\jspost.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\scripts\\jsnews.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\scripts\\jsnews.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\scripts\\jscommonadmin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\scripts\\jscommonadmin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\models\\ef\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -214,48 +346,8 @@
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\models\\ef\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\content\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\content\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\statistical\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\statistical\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\helper\\provider\\customvirtualpathprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\helper\\provider\\customvirtualpathprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\common\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\common\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -322,10 +414,6 @@
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\models\\ef\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\webbanhangonline\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -368,9 +456,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\.vs\\WebBanHangOnline.csproj.dtbcache.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebBanHangOnline\\.vs\\WebBanHangOnline.csproj.dtbcache.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\toan\\qlbh\\quanlybanhang\\webbanhangonline\\webbanhangonline\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -380,7 +465,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -392,42 +477,839 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebBanHangOnline",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\WebBanHangOnline.csproj",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\WebBanHangOnline.csproj",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\WebBanHangOnline.csproj",
-              "RelativeToolTip": "WebBanHangOnline\\WebBanHangOnline.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-02T09:35:53.243Z",
+              "DocumentIndex": 7,
+              "Title": "SettingHelper.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Common\\SettingHelper.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Common\\SettingHelper.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Common\\SettingHelper.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Common\\SettingHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:27:50.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IdentityModels.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\IdentityModels.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\IdentityModels.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\IdentityModels.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Models\\IdentityModels.cs",
+              "DocumentIndex": 6,
+              "Title": "ProductImageController.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T02:33:55.579Z"
+              "WhenOpened": "2024-10-03T02:42:46.197Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Migrations\\Configuration.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T06:42:09.923Z"
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\ProductImage\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\ProductImage\\Index.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\ProductImage\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\ProductImage\\Index.cshtml",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAGsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T06:39:23.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "jsCommonAdmin.js",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsCommonAdmin.js",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsCommonAdmin.js",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsCommonAdmin.js",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsCommonAdmin.js",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-20T06:36:17.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jsProductImage.js",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsProductImage.js",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsProductImage.js",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsProductImage.js",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsProductImage.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-03T02:28:19.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jsNews.js",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsNews.js",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsNews.js",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsNews.js",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsNews.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-20T06:36:30.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cssCommon.css",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Css\\cssCommon.css",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Css\\cssCommon.css",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Css\\cssCommon.css",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Css\\cssCommon.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-04T06:27:28.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cssProductImage.css",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Css\\cssProductImage.css",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Css\\cssProductImage.css",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Css\\cssProductImage.css",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Css\\cssProductImage.css",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAAAMYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-03T02:29:16.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Common\\Common.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Common\\Common.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Common\\Common.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Common\\Common.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:42:57.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAE0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:41:56.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\CustomAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\CustomAuthorizeAttribute.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\CustomAuthorizeAttribute.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\CustomAuthorizeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:51:05.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "jsProduct.js",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsProduct.js",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsProduct.js",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsProduct.js",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsProduct.js",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-04T07:30:42.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAADgvz4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:10:33.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\View.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\View.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\View.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\View.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:11:51.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:11:05.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:10:56.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:10:49.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:10:48.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:10:45.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\News\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\News\\Add.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\News\\Add.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\News\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:10:41.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:10:39.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:10:37.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Partial_SanPham.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:10:32.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Add.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Add.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:10:28.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:10:26.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:40:42.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:40:56.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:09:55.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAEMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T06:19:13.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Add.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Add.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:47:12.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T07:52:04.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\SettingSystem\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\SettingSystem\\Index.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\SettingSystem\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\SettingSystem\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T02:24:55.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T02:25:06.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\ProductCategory\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\ProductCategory\\Edit.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\ProductCategory\\Edit.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\ProductCategory\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T09:26:56.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\ProductCategory\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\ProductCategory\\Add.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\ProductCategory\\Add.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\ProductCategory\\Add.cshtml",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAHQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T09:26:49.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T01:53:24.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Partial_Setting.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\SettingSystem\\Partial_Setting.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\SettingSystem\\Partial_Setting.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\SettingSystem\\Partial_Setting.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\SettingSystem\\Partial_Setting.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:09:44.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:39:18.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAE4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T04:05:14.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_layoutEmpty.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_layoutEmpty.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_layoutEmpty.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_layoutEmpty.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_layoutEmpty.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T04:06:17.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_LayoutLogin.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T04:05:59.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_UnAuthorization.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_UnAuthorization.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_UnAuthorization.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_UnAuthorization.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_UnAuthorization.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T03:56:00.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:44:13.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T09:08:06.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Profile.css",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Content\\Profile.css",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Content\\Profile.css",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Content\\Profile.css",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Content\\Profile.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-20T04:04:07.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T02:24:57.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_PartiaSideBar.cshtml",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:41:33.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Startup.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Startup.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Startup.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:46:22.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Web.config",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Web.config",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Web.config",
+              "RelativeToolTip": "WebBanHangOnline\\Web.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-13T03:32:07.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAewCIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:23:19.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:09:52.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Global.asax.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Global.asax.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:59:41.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:54:23.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\.env",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\.env",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\.env",
+              "RelativeToolTip": "WebBanHangOnline\\.env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-03T07:29:28.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ThongKeTruyCap.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\Common\\ThongKeTruyCap.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\Common\\ThongKeTruyCap.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\Common\\ThongKeTruyCap.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Models\\Common\\ThongKeTruyCap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:46:13.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "WebBanHangOnline\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:10:08.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebBanHangOnline\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAADcAAAAAaGZmZmYAwEcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:55:58.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\IdentityConfig.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "WebBanHangOnline\\App_Start\\IdentityConfig.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAnwDIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:52:53.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\Startup.Auth.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "WebBanHangOnline\\App_Start\\Startup.Auth.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwBMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:13:58.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:16:29.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-09T03:29:22.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Views\\Web.config",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Web.config",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Views\\Web.config",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-02T08:39:51.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAD4v7QAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:16:07.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:50:47.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
               "Title": "StatisticalController.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\StatisticalController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\StatisticalController.cs",
@@ -440,33 +1322,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAIwEEAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T03:16:07.333Z",
-              "EditorCaption": ""
+              "DocumentIndex": 65,
+              "Title": "WebBanHangOnline",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\WebBanHangOnline.csproj",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\WebBanHangOnline.csproj",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\WebBanHangOnline.csproj",
+              "RelativeToolTip": "WebBanHangOnline\\WebBanHangOnline.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-02T09:35:53.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T04:09:52.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 109,
               "Title": "FolderProfile1.pubxml.user",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile1.pubxml.user",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile1.pubxml.user",
@@ -474,11 +1341,36 @@
               "RelativeToolTip": "WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile1.pubxml.user",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2024-10-02T08:40:39.778Z"
+              "WhenOpened": "2024-10-02T08:40:39.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 67,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:42:09.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\IdentityModels.cs",
+              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Models\\IdentityModels.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:33:55.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
               "Title": "FolderProfile2.pubxml",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile2.pubxml",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile2.pubxml",
@@ -486,11 +1378,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile2.pubxml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-10-02T08:40:46.097Z"
+              "WhenOpened": "2024-10-02T08:40:46.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 107,
               "Title": "FolderProfile2.pubxml.user",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile2.pubxml.user",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile2.pubxml.user",
@@ -498,11 +1391,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile2.pubxml.user",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2024-10-02T08:40:49.395Z"
+              "WhenOpened": "2024-10-02T08:40:49.395Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 106,
               "Title": "serviceDependencies.json",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Properties\\serviceDependencies.json",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Properties\\serviceDependencies.json",
@@ -510,24 +1404,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Properties\\serviceDependencies.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-02T08:41:00.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\MenuController.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\MenuController.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\MenuController.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Controllers\\MenuController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T08:54:23.032Z",
+              "WhenOpened": "2024-10-02T08:41:00.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 66,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\Publish\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Publish\\Views\\Home\\Index.cshtml",
@@ -540,7 +1422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 105,
               "Title": "serviceDependencies.local.json",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Properties\\serviceDependencies.local.json",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Properties\\serviceDependencies.local.json",
@@ -548,11 +1430,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Properties\\serviceDependencies.local.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-02T08:41:02.648Z"
+              "WhenOpened": "2024-10-02T08:41:02.648Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 104,
               "Title": "serviceDependencies.local.json.user",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Properties\\serviceDependencies.local.json.user",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Properties\\serviceDependencies.local.json.user",
@@ -560,11 +1443,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Properties\\serviceDependencies.local.json.user",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2024-10-02T08:41:03.37Z"
+              "WhenOpened": "2024-10-02T08:41:03.37Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 110,
               "Title": "FolderProfile1.pubxml",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
@@ -572,23 +1456,25 @@
               "RelativeToolTip": "WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-10-02T08:40:36.689Z"
+              "WhenOpened": "2024-10-02T08:40:36.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 111,
               "Title": "FolderProfile.pubxml.user",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile.pubxml.user",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile.pubxml.user",
               "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile.pubxml.user",
               "RelativeToolTip": "WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile.pubxml.user",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAABIAAAAFAAAA",
+              "ViewState": "AQIAAGMAAAAAAAAAALB8wBgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2024-10-02T08:40:22.644Z"
+              "WhenOpened": "2024-10-02T08:40:22.644Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 112,
               "Title": "FolderProfile.pubxml",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile.pubxml",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile.pubxml",
@@ -596,11 +1482,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Properties\\PublishProfiles\\FolderProfile.pubxml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-10-02T08:40:21.774Z"
+              "WhenOpened": "2024-10-02T08:40:21.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 69,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Properties\\AssemblyInfo.cs",
@@ -608,11 +1495,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Properties\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T08:40:15.641Z"
+              "WhenOpened": "2024-10-02T08:40:15.641Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 113,
               "Title": "WebBanHangOnline.csproj.dtbcache.json",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\.vs\\WebBanHangOnline.csproj.dtbcache.json",
               "RelativeDocumentMoniker": "WebBanHangOnline\\.vs\\WebBanHangOnline.csproj.dtbcache.json",
@@ -620,11 +1508,12 @@
               "RelativeToolTip": "WebBanHangOnline\\.vs\\WebBanHangOnline.csproj.dtbcache.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-02T08:40:00.96Z"
+              "WhenOpened": "2024-10-02T08:40:00.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 70,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\_ViewStart.cshtml",
@@ -632,23 +1521,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T08:39:53.577Z"
+              "WhenOpened": "2024-10-02T08:39:53.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Views\\Web.config",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Web.config",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Views\\Web.config",
-              "RelativeToolTip": "WebBanHangOnline\\Views\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-02T08:39:51.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 74,
               "Title": "ManageViewModels.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\ManageViewModels.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\ManageViewModels.cs",
@@ -656,35 +1534,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Models\\ManageViewModels.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T08:37:18.391Z"
+              "WhenOpened": "2024-10-02T08:37:18.391Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Startup.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Startup.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Startup.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T07:46:22.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IdentityConfig.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\IdentityConfig.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\IdentityConfig.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\IdentityConfig.cs",
-              "RelativeToolTip": "WebBanHangOnline\\App_Start\\IdentityConfig.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAnwDIAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T04:52:53.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 73,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\Contact.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\EF\\Contact.cs",
@@ -692,11 +1547,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Models\\EF\\Contact.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T04:05:15.986Z"
+              "WhenOpened": "2024-09-20T04:05:15.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 72,
               "Title": "IdentityModels.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\IdentityModels.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\EF\\IdentityModels.cs",
@@ -704,36 +1560,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Models\\EF\\IdentityModels.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAA0wDIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:02:02.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Web.config",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Web.config",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Web.config",
-              "RelativeToolTip": "WebBanHangOnline\\Web.config",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAgwA4AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-13T03:32:07.498Z",
+              "WhenOpened": "2024-08-22T03:02:02.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Global.asax.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Global.asax.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Global.asax.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Global.asax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAiwCMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T04:59:41.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 71,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\packages.config",
               "RelativeDocumentMoniker": "WebBanHangOnline\\packages.config",
@@ -741,59 +1573,12 @@
               "RelativeToolTip": "WebBanHangOnline\\packages.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-27T07:30:21.042Z"
+              "WhenOpened": "2024-09-27T07:30:21.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Startup.Auth.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\Startup.Auth.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\Startup.Auth.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\Startup.Auth.cs",
-              "RelativeToolTip": "WebBanHangOnline\\App_Start\\Startup.Auth.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T08:13:58.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AccountViewModels.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\AccountViewModels.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\AccountViewModels.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\AccountViewModels.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Models\\AccountViewModels.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA9wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T02:46:00.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_UnAuthorization.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_UnAuthorization.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_UnAuthorization.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_UnAuthorization.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_UnAuthorization.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T03:56:00.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "WebBanHangOnline\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAADcAAAAAaGZmZmYAwEcAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:55:58.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 75,
               "Title": "AdminAreaRegistration.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\AdminAreaRegistration.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\AdminAreaRegistration.cs",
@@ -801,23 +1586,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\AdminAreaRegistration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:54:20.38Z"
+              "WhenOpened": "2024-08-22T03:54:20.38Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CustomAuthorizeAttribute.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\CustomAuthorizeAttribute.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\CustomAuthorizeAttribute.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\CustomAuthorizeAttribute.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\CustomAuthorizeAttribute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:51:05.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 76,
               "Title": "AdvController.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AdvController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AdvController.cs",
@@ -825,59 +1599,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AdvController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T02:09:22.207Z"
+              "WhenOpened": "2024-10-02T02:09:22.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:50:47.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_PartiaSideBar.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAiwJwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T03:41:33.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAAAKkAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T07:19:20.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T03:40:42.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 77,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\ContactController.cs",
@@ -885,83 +1612,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Controllers\\ContactController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:05:39.481Z"
+              "WhenOpened": "2024-09-27T08:05:39.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Role\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Role\\Index.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Role\\Index.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Role\\Index.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T02:24:57.072Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T09:08:06.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_LayoutEmpty.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutEmpty.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutEmpty.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutEmpty.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutEmpty.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T03:40:20.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\SettingSystem\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\SettingSystem\\Index.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\SettingSystem\\Index.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\SettingSystem\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T02:24:55.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
-              "ViewState": "AQIAAMsAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T06:19:13.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Profile.css",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Content\\Profile.css",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Content\\Profile.css",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Content\\Profile.css",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Content\\Profile.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-20T04:04:07.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 81,
               "Title": "Subscribe.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\Subscribe.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\EF\\Subscribe.cs",
@@ -969,11 +1625,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Models\\EF\\Subscribe.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T04:05:08.774Z"
+              "WhenOpened": "2024-09-20T04:05:08.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 80,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\Order.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\EF\\Order.cs",
@@ -981,11 +1638,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Models\\EF\\Order.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T04:04:25.34Z"
+              "WhenOpened": "2024-09-20T04:04:25.34Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 79,
               "Title": "jsPost.js",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsPost.js",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsPost.js",
@@ -993,47 +1651,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsPost.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T04:53:19.146Z"
+              "WhenOpened": "2024-09-20T04:53:19.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "jsCommonAdmin.js",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsCommonAdmin.js",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsCommonAdmin.js",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsCommonAdmin.js",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsCommonAdmin.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T06:36:17.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Add.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Add.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Add.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Add.cshtml",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGEAAAB4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T03:47:12.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "jsNews.js",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsNews.js",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsNews.js",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsNews.js",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsNews.js",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T06:36:30.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 78,
               "Title": "jsProfile.js",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Scripts\\jsProfile.js",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsProfile.js",
@@ -1041,83 +1664,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Scripts\\jsProfile.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T06:36:41.462Z"
+              "WhenOpened": "2024-09-20T06:36:41.462Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\ProductImage\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\ProductImage\\Index.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\ProductImage\\Index.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\ProductImage\\Index.cshtml",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAAE0AAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T06:39:23.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "styles.js",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Content\\ckeditor\\styles.js",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Content\\ckeditor\\styles.js",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Content\\ckeditor\\styles.js",
-              "RelativeToolTip": "WebBanHangOnline\\Content\\ckeditor\\styles.js",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAABYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T06:42:59.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "config.js",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Content\\ckeditor\\config.js",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Content\\ckeditor\\config.js",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Content\\ckeditor\\config.js",
-              "RelativeToolTip": "WebBanHangOnline\\Content\\ckeditor\\config.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T06:43:06.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ckeditor.js",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Content\\ckeditor\\ckeditor.js",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Content\\ckeditor\\ckeditor.js",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Content\\ckeditor\\ckeditor.js",
-              "RelativeToolTip": "WebBanHangOnline\\Content\\ckeditor\\ckeditor.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T06:43:18.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "jquery.js",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Content\\ckeditor\\adapters\\jquery.js",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Content\\ckeditor\\adapters\\jquery.js",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Content\\ckeditor\\adapters\\jquery.js",
-              "RelativeToolTip": "WebBanHangOnline\\Content\\ckeditor\\adapters\\jquery.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T06:43:22.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAACUBAAAAAAAAAAAAAKgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T03:41:56.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 85,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\Category.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\EF\\Category.cs",
@@ -1125,11 +1677,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Models\\EF\\Category.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T09:53:55.864Z"
+              "WhenOpened": "2024-08-29T09:53:55.864Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 84,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\Product.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\EF\\Product.cs",
@@ -1137,11 +1690,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Models\\EF\\Product.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwAMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T06:22:43.208Z"
+              "WhenOpened": "2024-08-23T06:22:43.208Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 83,
               "Title": "ProductCategory.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\ProductCategory.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\EF\\ProductCategory.cs",
@@ -1149,11 +1703,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Models\\EF\\ProductCategory.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T07:18:23.247Z"
+              "WhenOpened": "2024-08-29T07:18:23.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 82,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\ProductImage.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\EF\\ProductImage.cs",
@@ -1161,95 +1716,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Models\\EF\\ProductImage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T06:30:55.962Z"
+              "WhenOpened": "2024-08-23T06:30:55.962Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T03:40:56.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "_LayoutLogin.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T03:40:31.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T03:39:18.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T03:23:19.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "web.config",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-09T03:29:22.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T09:44:13.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "CustomVirtualPathProvider.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Helper\\Provider\\CustomVirtualPathProvider.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Helper\\Provider\\CustomVirtualPathProvider.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Helper\\Provider\\CustomVirtualPathProvider.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Helper\\Provider\\CustomVirtualPathProvider.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwC8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T08:59:45.63Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 86,
               "Title": "PostsController.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\PostsController.cs",
@@ -1257,11 +1729,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\PostsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:50:59.911Z"
+              "WhenOpened": "2024-08-22T03:50:59.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 87,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Shared\\_Layout.cshtml",
@@ -1269,11 +1742,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T07:19:20.727Z"
+              "WhenOpened": "2024-08-26T07:19:20.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 88,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\HomeController.cs",
@@ -1286,31 +1760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Common.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Common\\Common.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Common\\Common.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Common\\Common.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Common\\Common.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAQwCEAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T03:42:57.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "WebBanHangOnline\\App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T06:10:08.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 89,
               "Title": "FilterConfig.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\FilterConfig.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\FilterConfig.cs",
@@ -1318,11 +1768,12 @@
               "RelativeToolTip": "WebBanHangOnline\\App_Start\\FilterConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:55:56.49Z"
+              "WhenOpened": "2024-08-30T07:55:56.49Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 90,
               "Title": "ProductCategoryController.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
@@ -1330,11 +1781,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T02:56:00.061Z"
+              "WhenOpened": "2024-08-30T02:56:00.061Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 91,
               "Title": "ArticleController.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\ArticleController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\ArticleController.cs",
@@ -1342,11 +1794,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Controllers\\ArticleController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T02:55:54.177Z"
+              "WhenOpened": "2024-08-30T02:55:54.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 92,
               "Title": "OrderViewModel.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\OrderViewModel.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\OrderViewModel.cs",
@@ -1354,11 +1807,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Models\\OrderViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T02:55:49.163Z"
+              "WhenOpened": "2024-08-30T02:55:49.163Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 93,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\ProductsController.cs",
@@ -1366,11 +1820,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T09:54:30.631Z"
+              "WhenOpened": "2024-08-29T09:54:30.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 94,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Products\\Index.cshtml",
@@ -1378,11 +1833,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Views\\Products\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T09:54:26.765Z"
+              "WhenOpened": "2024-08-29T09:54:26.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 95,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Views\\Products\\Detail.cshtml",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Products\\Detail.cshtml",
@@ -1390,11 +1846,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Views\\Products\\Detail.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T09:54:22.887Z"
+              "WhenOpened": "2024-08-29T09:54:22.887Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 97,
               "Title": "CommonAbstract.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\CommonAbstract.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\CommonAbstract.cs",
@@ -1402,11 +1859,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Models\\CommonAbstract.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T02:46:05.714Z"
+              "WhenOpened": "2024-08-27T02:46:05.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 96,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Home\\Index.cshtml",
@@ -1414,11 +1872,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T07:19:28.392Z"
+              "WhenOpened": "2024-08-26T07:19:28.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 98,
               "Title": "RevenueStatisticViewModel.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\ViewModels\\RevenueStatisticViewModel.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\ViewModels\\RevenueStatisticViewModel.cs",
@@ -1426,11 +1885,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Models\\ViewModels\\RevenueStatisticViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T02:34:45.519Z"
+              "WhenOpened": "2024-08-23T02:34:45.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 99,
               "Title": "UserDAL.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\DataAccess\\UserDAL.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\DataAccess\\UserDAL.cs",
@@ -1438,11 +1898,12 @@
               "RelativeToolTip": "WebBanHangOnline\\DataAccess\\UserDAL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T06:58:23.76Z"
+              "WhenOpened": "2024-08-22T06:58:23.76Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 101,
               "Title": "ManageController.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\ManageController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\ManageController.cs",
@@ -1450,11 +1911,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Controllers\\ManageController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:50:52.541Z"
+              "WhenOpened": "2024-08-22T03:50:52.541Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 100,
               "Title": "NewsController.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\NewsController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\NewsController.cs",
@@ -1462,11 +1924,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Controllers\\NewsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:50:54.596Z"
+              "WhenOpened": "2024-08-22T03:50:54.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 102,
               "Title": "News.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\News.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\EF\\News.cs",
@@ -1474,23 +1937,12 @@
               "RelativeToolTip": "WebBanHangOnline\\Models\\EF\\News.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:10:36.48Z"
+              "WhenOpened": "2024-08-22T03:10:36.48Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "Utilities.cs",
-              "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Utilities\\Utilities.cs",
-              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Utilities\\Utilities.cs",
-              "ToolTip": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Utilities\\Utilities.cs",
-              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Utilities\\Utilities.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T02:18:23.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 103,
               "Title": "RoleController.cs",
               "DocumentMoniker": "C:\\TOAN\\QLBH\\QuanLyBanHang\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
@@ -1498,7 +1950,8 @@
               "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T03:21:11.668Z"
+              "WhenOpened": "2024-08-13T03:21:11.668Z",
+              "EditorCaption": ""
             }
           ]
         },

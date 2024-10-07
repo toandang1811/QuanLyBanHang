@@ -80,7 +80,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
-        [CustomAuthorizeAttribute(Roles = "Admin,Employee")]
+        [CustomAuthorize(Roles = "Admin,Employee")]
         public async Task<ActionResult> Login(LoginViewModel model, string returnUrl)
         {
             if (!ModelState.IsValid)
@@ -131,7 +131,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         // POST: /Account/LogOff
         [HttpPost]
         [ValidateAntiForgeryToken]
-        [CustomAuthorizeAttribute(Roles = "Admin,Employee")]
+        [CustomAuthorize(Roles = "Admin,Employee")]
         public ActionResult LogOff()
         {
             AuthenticationManager.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
@@ -140,7 +140,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         //
         // GET: /Account/Register
         [AllowAnonymous]
-        [CustomAuthorizeAttribute(Roles = "Admin")]
+        [CustomAuthorize(Roles = "Admin")]
         public ActionResult Create()
         {
             ViewBag.Role = new SelectList(db.Roles.ToList(), "Name", "Name");
@@ -152,7 +152,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
-        [CustomAuthorizeAttribute(Roles = "Admin")]
+        [CustomAuthorize(Roles = "Admin")]
         public async Task<ActionResult> Create(CreateAccountViewModel model)
         {
             if (ModelState.IsValid)
@@ -172,9 +172,9 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
 
                     // For more information on how to enable account confirmation and password reset please visit https://go.microsoft.com/fwlink/?LinkID=320771
                     // Send an email with this link
-                    // string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
-                    // var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
-                    // await UserManager.SendEmailAsync(user.Id, "Confirm your account", "Please confirm your account by clicking <a href=\"" + callbackUrl + "\">here</a>");
+                    //string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
+                    //var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
+                    //await UserManager.SendEmailAsync(user.Id, "Confirm your account", "Please confirm your account by clicking <a href=\"" + callbackUrl + "\">here</a>");
 
                     return RedirectToAction("Index", "Home");
                 }
@@ -187,7 +187,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
 
         // GET: /Account/Register
         [AllowAnonymous]
-        [CustomAuthorizeAttribute(Roles = "Admin")]
+        [CustomAuthorize(Roles = "Admin")]
         public ActionResult View(string UserName)
         {
             var userRoles = _bl.GetAll(UserName);

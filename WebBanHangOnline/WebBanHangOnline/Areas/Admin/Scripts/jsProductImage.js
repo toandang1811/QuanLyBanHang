@@ -45,8 +45,33 @@ actionScreen = new function () {
     }
 
     this.saveHandler = function () {
-        var listAdd = listAction.filter(x => x.actionType == 'add');
-        var listDelete = listAction.filter(x => x.actionType == 'delete' && x.id.startsWith('image-add'))
+        //var listAdd = [];
+        //var listDelete = [];
+        var formData = new FormData();
+        listAction.forEach(item => {
+            if (item.actionType == 'add') {
+                formData.append('newFiles', item.file);
+            }
+
+            if (item.actionType == 'delete' && item.id.startsWith('image-add')) {
+                formData.append('deleteIds', item.url);
+            }
+        })
+
+        $.ajax({
+            type: 'POST',
+            url: "/ProductImage/Update",
+            //contentType: "application/json",
+            data: formData,
+            contentType: false,
+            processData: false,
+            success: function (res) {
+
+            },
+            error: function (xhr, status, error) {
+                console.error("Error: ", xhr.responseText);
+            }
+        });
     }
 
     this.undoHandler = function () {
@@ -77,7 +102,6 @@ actionScreen = new function () {
                     else {
                         prevNode.after(formatString(element, item.url));
                     }
-                    prevNode.after()
                 }
                 else if (!IsNullOrEmpty(item.nextNodeId)) {
                     var container = $('#container-product-image');
@@ -87,18 +111,21 @@ actionScreen = new function () {
                         var reader = new FileReader();
                         reader.onload = function (e) {
                             let src = e.target.result;
-                            newNode = document.createElement(formatString(element, src));
-                            container.insertBefore(newNode, nextNode);
+                            nextNode.before(formatString(element, src));
                         }
                         reader.readAsDataURL(item.file);
                     }
                     else {
-                        newNode = document.createElement(formatString(element, item.url));
-                        container.insertBefore(newNode, nextNode);
+                        nextNode.before(formatString(element, item.url));
                     }
                 }
                 else {
-                    actionScreen.addImage(item.file);
+                    if (item.docType == 0) {
+                        actionScreen.addImage(item.file);
+                    }
+                    else {
+                        $('#container-product-image').append(formatString(element, item.url));
+                    }
                 }
                 break;
             default: break;
@@ -145,7 +172,7 @@ actionScreen = new function () {
             }
         }
         else {
-            action.url = $(`src-${id}`).attr('src');
+            action.url = $(`#src-${id}`).attr('src');
             action.docType = 1;
             action.file = null;
         }

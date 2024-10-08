@@ -3,6 +3,7 @@ using CloudinaryDotNet.Actions;
 using dotenv.net;
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -15,6 +16,16 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
     public class ProductImageController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
+        private readonly Cloudinary _cloudinary;
+        public ProductImageController()
+        {
+            var account = new Account(
+                ConfigurationManager.AppSettings["cloud_name"],
+                ConfigurationManager.AppSettings["api_key"],
+                ConfigurationManager.AppSettings["api_secret"]
+            );
+            _cloudinary = new Cloudinary(account);
+        }
         // GET: Admin/ProductImage
         public ActionResult Index(int id)
         {
@@ -60,12 +71,37 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
             return Json(new { success = true });
         }
 
-        //[HttpPost]
-        //public ActionResult Update(int[] ids)
-        //{
-        //    var items = db.ProductImages
-        //    db.ProductImages.RemoveRange
-        //}
+        [HttpPost]
+        public ActionResult Update(List<HttpPostedFileBase> newFiles, List<string> deleteIds)
+        {
+            if (newFiles != null)
+            {
+                foreach (var file in newFiles)
+                {
+                    if (file != null && file.ContentLength > 0)
+                    {
+                        var uploadParams = new ImageUploadParams()
+                        {
+                            File = new FileDescription(file.FileName, file.InputStream)
+                        };
+
+                        var uploadResult = _cloudinary.Upload(uploadParams);
+                    }
+                }
+            }
+
+            if (deleteIds != null && deleteIds.Count > 0)
+            {
+                foreach (var publicId in deleteIds)
+                {
+                    var deleteParams = new DeletionParams(publicId);
+                    var deleteResult = _cloudinary.Destroy(deleteParams);
+
+                    // Xử lý deleteResult nếu cần
+                }
+            }
+            return Json(new { success = true });
+        }
 
         public ActionResult SetIsDefault(int id)
         {

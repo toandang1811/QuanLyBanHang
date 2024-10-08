@@ -1,8 +1,4 @@
-﻿//$(document).ready(function () {
-//    createToolbar(['add', 'edit', 'delete'], 'card-taskbar');
-//});
-
-const buttonTypes = {
+﻿const buttonTypes = {
     'add': {
         icon: "fas fa-plus",
         label: "Thêm mới",
@@ -92,4 +88,17 @@ function NumberFormat(value, style, language, currency, numberZero) {
 		return gasPrice.format(0);
 	}
 	return gasPrice.format(value);
+}
+
+function formatString(template, ...args) {
+    return template.replace(/{(\d+)}/g, (match, index) => {
+        return typeof args[index] !== 'undefined' ? args[index] : match;
+    });
+}
+
+function IsNullOrEmpty(value) {
+    if (value == null || value == "" || value == undefined) {
+        return true;
+    }
+    return false;
 }

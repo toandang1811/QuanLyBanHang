@@ -105,10 +105,10 @@
                             int i = 1;
                             foreach (var item in Model)
                             {
-                                <div class="project">
-                                    <button class="close">x</button>
-                                    <img class="smallImage" src="@item.Image">
-                                    <div class="overlay">
+                                <div class="project" id="image-@item.Id">
+                                    <button class="close" data-id="image-@item.Id"><i class="fas fa-times"></i></button>
+                                    <img class="smallImage" id="src-image-add-@item.Id" src="@item.Image">
+                                    @*<div class="overlay">
                                         <div class="overlay-inner">
                                             <button class="close">
                                                 Close X
@@ -117,12 +117,12 @@
                                                 <img class="squareImg" id="image-@item.Id" src="@item.Image">
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="btn-box">
+                                    </div>*@
+                                    @*<div class="btn-box">
                                         <button class="btn">
                                             View
                                         </button>
-                                    </div>
+                                    </div>*@
                                 </div>
                                 i++;
                             }

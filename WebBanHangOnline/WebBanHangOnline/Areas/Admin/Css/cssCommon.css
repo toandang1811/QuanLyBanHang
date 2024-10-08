@@ -28,3 +28,8 @@
     background-color: #18b0c9;
     color: #fff;
 }
+
+[aria-disabled="true"] {
+    pointer-events: none;
+    color: #ccc;
+}

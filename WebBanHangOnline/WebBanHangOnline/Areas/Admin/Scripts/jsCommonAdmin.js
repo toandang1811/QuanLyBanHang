@@ -77,7 +77,7 @@ function createToolbar(buttonConfigs, containerId) {
  * @param {any} numberZero
  * @returns
  */
-function NumberFormat(value, style, language, currency, numberZero) {
+function NumberFormat(value, style, language, currency, numberZero) { 
 	var gasPrice = new Intl.NumberFormat(language, {
 		style: style,
 		currency: currency,
